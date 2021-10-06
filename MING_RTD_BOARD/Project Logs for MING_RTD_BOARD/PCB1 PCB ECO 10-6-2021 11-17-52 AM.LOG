@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=1 NewDesignator=0.1uF
+Change Component Designator: OldDesignator=2 NewDesignator=33pF
+Change Component Designator: OldDesignator=3 NewDesignator=33pF
+Change Component Designator: OldDesignator=4 NewDesignator=33pF
+Change Component Designator: OldDesignator=4.7MOhm NewDesignator=4.7M?
+Change Component Designator: OldDesignator=10k NewDesignator=10k?
+Change Component Designator: OldDesignator=330 NewDesignator=330?
+Change Component Designator: OldDesignator=350 Ohms NewDesignator=350?
+Change Component Designator: OldDesignator=1000kOhm NewDesignator=1000k?
+Change Net Name : Old Net Name=Net330_2 New Net Name=Net330?_2
+Change Net Name : Old Net Name=Net350 Ohms_1 New Net Name=Net350?_1
+Change Net Name : Old Net Name=Net350 Ohms_2 New Net Name=Net350?_2
