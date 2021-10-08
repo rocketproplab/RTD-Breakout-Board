@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=+5 Pin=0.1 uF-1
+Removed Pin From Net: NetName=+5 Pin=0.1uF-1
+Removed Pin From Net: NetName=+5 Pin=J3-1
+Removed Pin From Net: NetName=GND Pin=J3-4
+Removed Pin From Net: NetName=+5 Pin=U1-2
+Removed Pin From Net: NetName=+5 Pin=U1-3
+Added Pin To Net: NetName=3V3 Pin=0.1 uF-1
+Added Pin To Net: NetName=3V3 Pin=0.1uF-1
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=+5 Pin=J3-4
+Added Pin To Net: NetName=3V3 Pin=U1-2
+Added Pin To Net: NetName=3V3 Pin=U1-3
+Added Pin To Net: NetName=+5 Pin=U2-3
+Added Member To Class: ClassName=MING RTD Member=Component 33pF Capacitor
+Added Member To Class: ClassName=MING RTD Member=Component 33pF Capacitor
+Added Member To Class: ClassName=MING RTD Member=Component 33pF Capacitor
