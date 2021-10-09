@@ -1,0 +1,22 @@
+Replace Part *1 AVR ISP 6 PIN HEADER in C:\Users\mingw\Documents\GitHub\RTD-Breakout-Board\MING_RTD_BOARD\MING RTD.SchDoc with AVR ISP 6 PIN HEADER from Main.SchLib
+Update Managed Component 1 From CMP-2008-02046-2[Capacitor] To CMP-2008-02046-2[C0402C104K8PACTU] in MING RTD.SchDoc
+Update Managed Component 2 From CMP-2008-02046-2[Capacitor] To CMP-2008-02046-2[C0402C104K8PACTU] in MING RTD.SchDoc
+Update Managed Component 3 From CMP-2008-02046-2[Capacitor] To CMP-2008-02046-2[C0402C104K8PACTU] in MING RTD.SchDoc
+Update Managed Component 6 From CMP-2000-03816-5[Resistor] To CMP-2000-03816-5[CRCW06030000Z0EA] in MING RTD.SchDoc
+Update Managed Component 7 From CMP-2008-02046-2[Capacitor] To CMP-2008-02046-2[C0402C104K8PACTU] in MING RTD.SchDoc
+Update Managed Component 9 From CMP-2008-02046-2[Capacitor] To CMP-2008-02046-2[C0402C104K8PACTU] in MING RTD.SchDoc
+Update Managed Component 10 From CMP-2008-02046-2[Capacitor] To CMP-2008-02046-2[C0402C104K8PACTU] in MING RTD.SchDoc
+Replace Part C1 GCM188R91E104KA37D in C:\Users\mingw\Documents\GitHub\RTD-Breakout-Board\MING_RTD_BOARD\MING RTD.SchDoc with GCM188R91E104KA37D from Main.SchLib
+Replace Part C2 GCM188R91E104KA37D in C:\Users\mingw\Documents\GitHub\RTD-Breakout-Board\MING_RTD_BOARD\MING RTD.SchDoc with GCM188R91E104KA37D from Main.SchLib
+Update Managed Component D1 From CMP-15384-000001-1[GREEN LED] To CMP-15384-000001-1[597-3301-507F] in MING RTD.SchDoc
+Update Managed Component D2 From CMP-1060-00383-2[2.5V Zener Diode] To CMP-1060-00383-2[MMSZ5222BT1G] in MING RTD.SchDoc
+Update Managed Component J1 From CMP-2000-05888-3[RTD Sensor] To CMP-2000-05888-3[B2B-XH-A(LF)(SN)] in MING RTD.SchDoc
+Update Managed Component J2 From CMP-1023-00130-1[OUTPUT] To CMP-1023-00130-1[SLW-104-01-G-S] in MING RTD.SchDoc
+Replace Part R1 ERJ-3EKF5101V in C:\Users\mingw\Documents\GitHub\RTD-Breakout-Board\MING_RTD_BOARD\MING RTD.SchDoc with ERJ-3EKF5101V from Main.SchLib
+Replace Part R? ERJ-PA3J103V in C:\Users\mingw\Documents\GitHub\RTD-Breakout-Board\MING_RTD_BOARD\MING RTD.SchDoc with ERJ-PA3J103V from Main.SchLib
+Replace Part R? ERJ1GNF1004C in C:\Users\mingw\Documents\GitHub\RTD-Breakout-Board\MING_RTD_BOARD\MING RTD.SchDoc with ERJ1GNF1004C from Main.SchLib
+Replace Part R? ERJ-1GNF3300C in C:\Users\mingw\Documents\GitHub\RTD-Breakout-Board\MING_RTD_BOARD\MING RTD.SchDoc with ERJ-1GNF3300C from Main.SchLib
+Update Managed Component U1 From CMP-05687-000005-1[MAX31865AAP+T] To CMP-05687-000005-1[MAX31865AAP+T] in MING RTD.SchDoc
+Update Managed Component U2 From CMP-0394-00176-2[Voltage Regulator] To CMP-0394-00176-2[REG102NA-3.3/3K] in MING RTD.SchDoc
+Replace Part U3 ATmega328P-AU in C:\Users\mingw\Documents\GitHub\RTD-Breakout-Board\MING_RTD_BOARD\MING RTD.SchDoc with ATmega328P-AU from Main.SchLib
+Replace Part Y? ABS05W-32.768KHZ-D-2-T in C:\Users\mingw\Documents\GitHub\RTD-Breakout-Board\MING_RTD_BOARD\MING RTD.SchDoc with ABS05W-32.768KHZ-D-2-T from Main.SchLib
