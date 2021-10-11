@@ -1,0 +1,19 @@
+Change Component Footprint: Designator=U3 Old Footprint=32A_L New Footprint=32A_L
+Change Component Footprint: Designator=J2 Old Footprint=FP-B2B-XH-A_LF_SN-MFG New Footprint=FP-B2B-XH-A_LF_SN-MFG
+Change Component Footprint: Designator=C1 Old Footprint=FP-GCM188-0_1-IPC_C New Footprint=FP-GCM188-0_1-IPC_C
+Change Component Footprint: Designator=C2 Old Footprint=FP-GCM188-0_1-IPC_C New Footprint=FP-GCM188-0_1-IPC_C
+Change Component Footprint: Designator=C3 Old Footprint=FP-GCM188-0_1-IPC_C New Footprint=FP-GCM188-0_1-IPC_C
+Change Component Footprint: Designator=C4 Old Footprint=FP-GCM188-0_1-IPC_C New Footprint=FP-GCM188-0_1-IPC_C
+Change Component Footprint: Designator=C5 Old Footprint=FP-GCM188-0_1-IPC_C New Footprint=FP-GCM188-0_1-IPC_C
+Change Component Footprint: Designator=C6 Old Footprint=FP-GCM188-0_1-IPC_C New Footprint=FP-GCM188-0_1-IPC_C
+Change Component Footprint: Designator=C7 Old Footprint=FP-GCM188-0_1-IPC_C New Footprint=FP-GCM188-0_1-IPC_C
+Change Component Footprint: Designator=R4 Old Footprint=RESC1608X06L New Footprint=RESC1608X06L
+Change Component Designator: OldDesignator=C7 NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=Y? NewDesignator=Y1
+Added Member To Class: ClassName=MING RTD Member=Component C9 10nF
+Added Room: Name=MING RTD
