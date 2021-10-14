@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=MING RTD Member=L1
+Added Component: Designator=L?(C165977)
+Added Pin To Net: NetName=GND Pin=L?-1
+Added Pin To Net: NetName=NetL?_2 Pin=L?-2
+Added Pin To Net: NetName=NetL?_2 Pin=R2-1
+Added Net: Name=NetL?_2
+Added Member To Class: ClassName=MING RTD Member=Component L? Blue LED
+Added Room: Name=MING RTD
