@@ -1,12 +1,10 @@
-Output: Gerber Files
-Type  : Gerber
+Output: Generates pick and place files
+Type  : Pick Place
 From  : Variant [[No Variations]] of Project [MING_RTD_BOARD.PrjPcb]
-   Generated File[PCB1.RUL]
-   Generated File[PCB1.EXTREP]
-   Generated File[PCB1.REP]
+   Generated File[Pick Place for PCB1.csv]
 
 
-Files Generated   : 3
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 10:08:03 AM On 10/16/2021
+Finished Output Generation At 11:48:13 AM On 10/16/2021

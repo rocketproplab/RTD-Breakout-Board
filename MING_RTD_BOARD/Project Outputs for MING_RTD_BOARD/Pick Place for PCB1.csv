@@ -1,0 +1,33 @@
+Altium Designer Pick and Place Locations
+C:\Users\mingw\Documents\GitHub\RTD-Breakout-Board\MING_RTD_BOARD\Project Outputs for MING_RTD_BOARD\Pick Place for PCB1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       16/10/21
+Time:       11:48
+Revision:   ee96534c5c4c92e31f7ee531a02206880b97e302
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"*1","AVR ISP 6 PIN HEADER","TopLayer","AVR_ISP_6_PIN_HEADER","43.3070","58.9280","0",""
+"C1","100nF","TopLayer","FP-GCM188-0_1-IPC_C","49.3454","48.6363","0",""
+"C2","100nF","TopLayer","FP-GCM188-0_1-IPC_C","49.3454","46.4820","180",""
+"C3","100nF","TopLayer","FP-GCM188-0_1-IPC_C","36.9570","41.9100","90",""
+"C4","100nF","TopLayer","FP-GCM188-0_1-IPC_C","48.8950","33.1470","90",""
+"C5","100nF","TopLayer","FP-GCM188-0_1-IPC_C","49.5300","28.1940","0",""
+"C6","100nF","TopLayer","FP-GCM188-0_1-IPC_C","49.5300","30.3530","0",""
+"C7","22p","TopLayer","CAPC1005X06L","49.2760","42.6720","180",""
+"C8","22p","TopLayer","CAPC1005X06L","34.9250","41.5290","90",""
+"J1","JST-XH 4","TopLayer","C146120","0.0000","0.0000","270",""
+"J2","JST-XH 2","TopLayer","FP-B2B-XH-A_LF_SN-MFG","32.6220","57.5310","90","CONN HEADER VERT 2POS 2.5MM"
+"L?","Blue LED","TopLayer","C165977","33.1300","48.2600","0",""
+"R1","5k1","TopLayer","RESC1608X06L","37.5920","44.5770","90",""
+"R2","330","TopLayer","RESC1608X06L","33.4010","44.7040","0",""
+"R3","10k","TopLayer","RESC1608X06L","45.9740","38.2270","0",""
+"R4","1MOhm","TopLayer","RESC1608X06L","49.3143","41.2750","0",""
+"U1","RTD-DIGITAL CONVERTER","TopLayer","FP-A20-1-IPC_C","43.5801","44.1960","0","IC RTD TO DIGITAL CONVERT 20SSOP"
+"U2","Linear Regulator","TopLayer","DBV0005A_L","39.2430","50.2920","270","Single Output Fast Transient Response LDO, 250 mA, Fixed 3.3 V Output, 1.8 to 12 V Input, 5-pin SOT-23 (DBV), -55 to 125 degC, Green (RoHS & no Sb/Br)"
+"U3","ATMEGA328P-AU","TopLayer","32A_L","42.6720","32.3850","0","8-bit AVR Microcontroller, 32KB Flash, 1KB EEPROM, 2KB SRAM, 32-pin TQFP, Industrial Grade (-40°C to 85°C)"
+"Y1","8Mhz","TopLayer","C107425","34.7980","32.7390","90","Resistance Weld Crystal, 8 MHz, +/- 30 ppm, -20 to 70 degC, 2-Pin SMD, RoHS, Tape and Reel"
