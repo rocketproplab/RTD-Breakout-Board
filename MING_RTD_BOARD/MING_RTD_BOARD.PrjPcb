@@ -41,7 +41,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Release]
-ReleaseTarget=1
+ReleaseTarget=2
 ReleaseFolderPath=C:\Users\mingw\Documents\GitHub\RTD-Breakout-Board\MING_RTD_BOARD\Outputs
 ReleaseZipPath=[OutputPath][ProjectName].zip
 
