@@ -5,8 +5,8 @@ C:\Users\mingw\Documents\GitHub\RTD-Breakout-Board\MING_RTD_BOARD\Project Output
 File Design Information:
 
 Date:       16/10/21
-Time:       14:26
-Revision:   bf03437774eceb738cfacebdc8d506ec3026b053
+Time:       20:46
+Revision:   beb684747e81c7fbc21b65b25cf2b8aefdd9f2bd
 Variant:    No variations
 Units used: mm
 
@@ -20,8 +20,8 @@ Units used: mm
 "C6","TopLayer","FP-GCM188-0_1-IPC_C","49.5300","30.3530","0"
 "C7","TopLayer","CAPC1005X06L","49.2760","42.6720","180"
 "C8","TopLayer","CAPC1005X06L","34.9250","41.5290","90"
-"J1","TopLayer","C146120","0.0000","0.0000","270"
 "J2","TopLayer","FP-B2B-XH-A_LF_SN-MFG","32.6220","57.5310","90"
+"J?","TopLayer","C146120","52.8320","56.6420","90"
 "L1","TopLayer","C165977","33.1300","48.2600","0"
 "R1","TopLayer","RESC1608X06L","37.5920","44.5770","90"
 "R2","TopLayer","RESC1608X06L","33.4010","44.7040","0"
