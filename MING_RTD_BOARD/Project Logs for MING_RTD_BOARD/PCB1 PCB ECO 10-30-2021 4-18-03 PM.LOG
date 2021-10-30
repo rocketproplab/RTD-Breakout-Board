@@ -1,0 +1,6 @@
+Change Component Comment : Designator=U2 Old Comment=AP2120N-3.3TRG1 New Comment=C183880
+Change Component Description : Designator=U2 Old Description=IC REG LINEAR 3.3V 150MA SOT23
+
+jlc: C83932 New Description=IC REG LINEAR 3.3V 150MA SOT23
+C183880
+Added Room: Name=MING RTD
